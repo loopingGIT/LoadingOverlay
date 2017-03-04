@@ -1,7 +1,7 @@
 # LoadingOverlay
 A simple Overlay view
 
-This is a tiny project as result of [this Stackoverflow question link](http://stackoverflow.com/questions/27960556/loading-an-overlay-when-running-long-tasks-in-ios/34211724#34211724)
+This is a tiny project as result of [this Stackoverflow question](http://stackoverflow.com/questions/27960556/loading-an-overlay-when-running-long-tasks-in-ios/34211724#34211724)
 
 ## How to use
 
