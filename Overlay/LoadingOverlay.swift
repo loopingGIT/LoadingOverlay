@@ -10,6 +10,7 @@ import UIKit
 open class LoadingOverlay{
     
     var overlayView : UIView!
+    
     var activityIndicator : UIActivityIndicatorView!
     
     class var shared: LoadingOverlay {
